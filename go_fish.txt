@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Go Fish"
+	"maps"		"^gf_"
+	"menusystem"	"1"
+}
